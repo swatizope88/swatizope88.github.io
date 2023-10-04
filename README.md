@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+#<!DOCTYPE html>
 <!-- saved from url=(0027)https://parthm16.github.io/ -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<title>Swati Zope Business Intelligent Developer Portfolio</title>
@@ -22,11 +22,11 @@
 
 				<!-- Intro -->
 					<div id="intro" class="">
-						<h1>Swati Zope <br>Swati Zope Business Intelligent Developer</h1>
-						<p> Data Analyst with MySQL/SQL Server, Excel, Power BI, Tableau, and Python skillset</p>
+						<h1> <br>Swati Zope Business Intelligent Developer</h1>
+						<p> Data Analyst with Excel, Power BI Desktop, Power BI service, SQL, DAX skillset</p>
 					</div>
 
-				Header
+				#Header
 					<header id="header">
 						<a href="https://parthm16.github.io/index.html" class="logo">Parth Maheshwari Analyst</a>
 					</header>
