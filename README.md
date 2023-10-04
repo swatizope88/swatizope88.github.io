@@ -4,7 +4,7 @@
 		<title>Swati Zope Business Intelligent Developer Portfolio</title>
 		
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-		<link rel="stylesheet" href="./Parth Maheshwari Analyst Portfolio_files/main.css">
+		<link rel="stylesheet" href="./Swati Zope Business Intelligent Developer Portfolio_files/main.css">
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 		<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> -->
 		<style>
@@ -22,7 +22,7 @@
 
 				<!-- Intro -->
 					<div id="intro" class="">
-						<h1>Parth Maheshwari <br>Analyst Portfolio</h1>
+						<h1>Swati Zope <br>Swati Zope Business Intelligent Developer</h1>
 						<p> Data Analyst with MySQL/SQL Server, Excel, Power BI, Tableau, and Python skillset</p>
 					</div>
 
